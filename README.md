@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an multipurpose organization management app. <br>👯 I’m looking to collaborate on app development and deep learning<br>🤝 I’m looking for help with data science<br>🌱 I’m currently learning data science
+🔭 I’m currently working on an multiple projects. <br>👯 I’m looking to collaborate on app development and deep learning<br>🤝 I’m looking for help with data science<br>🌱 I’m currently learning data science
 
 
 ## 🌐 Socials:
