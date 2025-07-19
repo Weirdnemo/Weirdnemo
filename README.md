@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on multiple projects based on machine learning.<br>👯 I’m looking to collaborate on deep learning.<br>🤝 I’m looking for help with data science.<br>🌱 I’m currently learning Deep Reinforcement Learning.
+🔭 I’m currently working on RL biomechanics simulators.<br>
+👯 I’m looking to collaborate on reinforcement learning and robotics projects.<br>
+🤝 I’m looking for help with deploying large-scale ML systems.<br>
+🌱 I’m currently learning Deep Reinforcement Learning.
 
 
 ## 🌐 Socials:
