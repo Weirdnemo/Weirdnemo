@@ -15,12 +15,11 @@ Reinforcement learning for spacecraft autonomy, guidance and control.
 ## 01 / Overview
 
 ```text
-FOCUS        RL-based spacecraft autonomy, astrodynamics, GNC
+FIELD        RL-based spacecraft autonomy, astrodynamics, GNC
 STAGE        Final-year engineering student
 METHODS      PPO, curriculum learning, custom physics environments
 LEARNING     C++, PyTorch internals, SLAM and state estimation (KF, EKF, UKF)
 LOOKING FOR  Collaborators on RL and robotics, help deploying large-scale ML systems
-NEXT         Fully funded master's programs abroad
 ```
 
 I build learning agents for problems where the physics is unforgiving: hypersonic reentry, tumbling satellites, and exploration in unmapped space. Most of the work is in the simulator and the reward design rather than the network itself.
